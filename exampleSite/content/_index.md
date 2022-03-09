@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
+  title: "Empower digital transformation with FloFrame – the breakthrough #1 NO-CODE NATIVE app development platform"
+  button: "Get started for free"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
 
