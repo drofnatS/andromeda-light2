@@ -27,28 +27,27 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: ""
+  title: "Why FloFrame?"
+  description: "Mobile is at the heart of digital innovation and business transformation. Even with the introduction of agile development techniques, coding new native apps continues to be a costly and time-consuming process. The FloFrame platform allows organisations to rapidly design and deliver innovative mobile solutions that perfectly serve their business."
   features_blocks:
   - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Halve Overall Costs"
+    content: "Reduce costs by up to 50% through a fast development, testing and refining process. Improve user experience, productivity and data quality as well as reducing costs associated with training and user errors."
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Cut Development Time By Up To 90%"
+    content: "FloFrame enables apps to be prototyped and deployed up to 90% faster than when using traditional agile software development techniques."
   - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-link"
-    title: "Instant Link Sharing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Rapid Prototyping"
+    content: "Create close-fit solutions using functional software building blocks; units of logic that deliver an optimal balance of power, utility & usability."
+    title: "Fully Use Device Capabilities"
+    content: "Apps built on the FloFrame Platform utilise the full capability of mobile device hardware, operating system, user interface and security features."
   - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Integration Ready"
+    content: "FloFrame’s data connectors includes an ever-expanding range of cloud file systems, databases & API end points to fully integrate with existing IT systems."
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Simplify Process Modelling"
+    content: "Combine functional software blocks that represent business data as well as processes to model virtually any area of your organisation."
 
 
 # intro_video
