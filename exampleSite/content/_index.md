@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Empower digital transformation with FloFrame – the breakthrough #1 NO-CODE NATIVE app development platform"
+  title: "Empower digital transformation with FloFrame </br> the breakthrough </br> #1 NO-CODE NATIVE </br> app development platform"
   button: "Get started for free"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
@@ -11,18 +11,22 @@ banner:
 brands_carousel:
   enable: true
   brand_images:
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/03-colored.png"
-  - "images/brands/05-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/01-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/05-colored.png"
-
+  - "images/brands2/1.webp"
+  - "images/brands2/2.webp"
+  - "images/brands2/3.webp" 
+  - "images/brands2/4.webp"
+  - "images/brands2/5.webp"
+  - "images/brands2/6.webp"
+  - "images/brands2/7.webp"
+  - "images/brands2/8.webp" 
+  - "images/brands2/9.webp"
+  - "images/brands2/10.webp"
+  - "images/brands2/11.webp"
+  - "images/brands2/12.webp"
+  - "images/brands2/13.webp" 
+  - "images/brands2/14.webp"
+  - "images/brands2/15.webp"
+  - "images/brands2/16.webp"
 
 # features
 features:
