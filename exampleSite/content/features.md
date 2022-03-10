@@ -1,14 +1,16 @@
 ---
-title: "About"
+title: "Features"
 layout: "about"
 draft: false
 
 # who_we_are
 who_we_are:
   enable: true
-  subtitle: "Who We Are"
-  title: "Hello, We're Andromeda Here for your Help"
-  description: "Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit"
+  subtitle: ""
+  title: "Build native mobile apps without code."
+  description: "Rapidly create frictionless UI/UX using the visual drag-and-drop editor and connect to cloud and back end systems using our intelligent no-code connectors."
+  button: "Get started for free"
+  button_link: "https://gethugothemes.com/products/andromeda/"
 
   image: "images/about/01.jpg"
 
