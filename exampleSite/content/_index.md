@@ -4,7 +4,7 @@ banner:
   title: "Empower digital transformation </br> with FloFrame </br> the breakthrough </br> #1 NO-CODE NATIVE </br> app development platform"
   button: "Get started for free"
   button_link: "https://gethugothemes.com/products/andromeda/"
-  image: "images/FloPro image.png"
+  image: "images/3ItemFloPro.png"
 
 
 # brands
