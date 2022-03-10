@@ -19,6 +19,16 @@ name = "Showcase"
 url = "contact/"
 weight = 5
 
+[[main]]
+name = "Marketplace"
+url = "contact/"
+weight = 5
+
+[[main]]
+name = "Academy"
+url = "contact/"
+weight = 5
+
 
 # footer menu
 [[footer]]
