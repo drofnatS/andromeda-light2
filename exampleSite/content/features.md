@@ -12,7 +12,7 @@ who_we_are:
   button: "Get started for free"
   button_link: "https://gethugothemes.com/products/andromeda/"
 
-  image: "images/FloPro Image.png"
+  image: "images/FloPro image.png"
 
 # what_we_do
 what_we_do:
