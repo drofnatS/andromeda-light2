@@ -17,8 +17,9 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "Our Works"
-  title: "What We Do"
+  subtitle: "Rapid Agile Development"
+  title: "Build any mobile app with no code. "
+  description: "FloPro lets you create native iOS and Android apps and includes a rich library of artefacts and user interface features for building simple to complex enterprise grade apps."
   block:
   - title: "Building a new class"
     content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
