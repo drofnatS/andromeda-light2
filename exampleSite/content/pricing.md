@@ -27,10 +27,17 @@ what_we_do:
     price: "£100/month"
     
   - title: "Professional"
-    content: "Using the FloPro Intelligent Connection Engine connect to multiple cloud and back end systems using REST/Open API and GraphQL."
+    content: "Core platform +</br>x + 20  UI elements</br>3 back end API connection</br>3 development license</br>Custom Branding</br>Email support</br>... and much more!"
+    price: "£200/month"
+
 
   - title: "Business"
-    content: "Using the FloPro Intelligent Connection Engine connect to multiple cloud and back end systems using REST/Open API and GraphQL."
+    content: "Core platform +</br>x + 30  UI elements</br>10 back end API connection</br>10 development license</br>Custom Branding</br>Email support</br>... and much more!"
+    price: "£500/month"
+
+  title: "Dedicated solutions"
+  description: "For enterprise clients and apps with special requirements, <create link Contact US> to learn more."
+
 
 
 # our_mission
