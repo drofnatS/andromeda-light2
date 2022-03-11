@@ -21,17 +21,15 @@ what_we_do:
   title: "Build any mobile app with no code. "
   description: "FloPro lets you create native iOS and Android apps and includes a rich library of artefacts and user interface features for building simple to complex enterprise grade apps."
   block:
-  - title: "Building a new class"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "Design and iterate the UX"
+    content: "Storyboard your mobile app scene by scene, build out logic using conditional operators determine what happens as users navigate your app through clicks and swipes. Use the FloPro library of comprehensive visual elements. "
 
-  - title: "Design for anyone"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "Manage authorisation, security and data"
+    content: "Use a plurality of back end systems including and not limited to Firebase, Airtable, Backendless, Oracle Microsoft, Software AG, IBM, SAP, Salesforce using standard authentication mechanisms such as OAuth 2.0."
     
-  - title: "Creative flair design"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
-    
-  - title: "Building products"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "Integrate with multiple back end systems"
+    content: "Using the FloPro Intelligent Connection Engine connect to multiple cloud and back end systems using REST/Open API and GraphQL."
+
 
 # our_mission
 our_mission:
