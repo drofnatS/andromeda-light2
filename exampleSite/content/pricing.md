@@ -19,10 +19,12 @@ what_we_do:
   enable: true
   block:
   - title: "Free"
-    content: "Core platform features</br>1 development license</br>x UI elements</br>Cotham Technologies Branding</br>Community support</br></br>Free "
+    content: "Core platform features</br>1 development license</br>x UI elements</br>Cotham Technologies Branding</br>Community support"
+    price: "Free"
 
   - title: "Starter"
-    content: "Core platform +</br>x + 10  UI elements</br>1 back end API connection</br>1 development license</br>Custom Branding</br>Email support</br>... and much more!</br></br>£100/month "
+    content: "Core platform +</br>x + 10  UI elements</br>1 back end API connection</br>1 development license</br>Custom Branding</br>Email support</br>... and much more!"
+    price: "£100/month"
     
   - title: "Professional"
     content: "Using the FloPro Intelligent Connection Engine connect to multiple cloud and back end systems using REST/Open API and GraphQL."
