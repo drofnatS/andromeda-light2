@@ -1,7 +1,8 @@
 ---
 # banner
 banner:
-  title: "Empower digital transformation with FloFrame the breakthrough #1 NO-CODE NATIVE app development platform"
+  title: "Mobilise and automate your business work flow - instantly."
+  subtitle: "Rapidly design, build, deploy and modify powerful native mobile apps with frictionless user experiences. No coding required."
   button: "Get started for free"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/3ItemFloPro.png"
