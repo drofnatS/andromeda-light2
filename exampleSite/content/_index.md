@@ -47,7 +47,7 @@ features:
   - icon: "las la-mobile"
     title: "Fully Use Device Capabilities"
     content: "Apps built on the FloFrame Platform utilise the full capability of mobile device hardware, operating system, user interface and security features."
-  - icon: "las la-cloud-stream"
+  - icon: "las la-stream"
     title: "Integration Ready"
     content: "FloFrame’s data connectors includes an ever-expanding range of cloud file systems, databases & API end points to fully integrate with existing IT systems."
   - icon: "las la-sitemap"
