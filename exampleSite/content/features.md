@@ -33,7 +33,7 @@ what_we_do:
 
 # our_mission
 our_mission:
-  enable: true
+  enable: false
   subtitle: "OUR MISSION"
   title: "Main Vision And Mission Of Our Company"
   description: "We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece ."
@@ -42,7 +42,7 @@ our_mission:
 
 # about_video
 about_video:
-  enable: true
+  enable: false
   subtitle: "A Short Video"
   title: "You Take Care Of The Payments, We Take Care Of The Rest."
   description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistcy throughout the."
@@ -52,7 +52,7 @@ about_video:
 
 # brands
 brands_carousel:
-  enable: true
+  enable: false
   subtitle: "Our Clients"
   title: "Trusted by Thousands Companies"
   section: "/" # brand images comming form _index.md
@@ -60,7 +60,7 @@ brands_carousel:
 
 # our team
 our_team:
-  enable: true
+  enable: false
   subtitle: "Our members"
   title: "The People Behind"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
@@ -78,7 +78,7 @@ our_team:
 
 # our office
 our_office:
-  enable: true
+  enable: false
   subtitle: "Our Offices"
   title: "Made with Love Of around the world With Many Offices"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
