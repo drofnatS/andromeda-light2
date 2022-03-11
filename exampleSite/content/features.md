@@ -1,6 +1,6 @@
 ---
 title: "Features"
-layout: "about"
+layout: "features"
 draft: false
 
 # who_we_are
