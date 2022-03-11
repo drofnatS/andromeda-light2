@@ -17,15 +17,12 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: ""
-  title: ""
-  description: ""
   block:
   - title: "Free"
-    content: "Core platform features</br>1 development license</br>x UI elements</br>Cotham Technologies Branding</br>Community support</br>Free "
+    content: "Core platform features</br>1 development license</br>x UI elements</br>Cotham Technologies Branding</br>Community support</br></br>Free "
 
   - title: "Starter"
-    content: "Use a plurality of back end systems including and not limited to Firebase, Airtable, Backendless, Oracle Microsoft, Software AG, IBM, SAP, Salesforce using standard authentication mechanisms such as OAuth 2.0."
+    content: "Core platform +</br>x + 10  UI elements</br>1 back end API connection</br>1 development license</br>Custom Branding</br>Email support</br>... and much more!</br></br>£100/month "
     
   - title: "Professional"
     content: "Using the FloPro Intelligent Connection Engine connect to multiple cloud and back end systems using REST/Open API and GraphQL."
