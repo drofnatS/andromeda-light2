@@ -27,12 +27,12 @@ what_we_do:
     price: "£100/month"
     
   - title: "Professional"
-    content: "Core platform +</br>x + 20  UI elements</br>3 back end API connection</br>3 development license</br>Custom Branding</br>Email support</br>... and much more!"
+    content: "Core platform +</br>x + 20  UI elements</br>3 back end API connections</br>3 development licenses</br>Custom Branding</br>Email support</br>... and much more!"
     price: "£200/month"
 
 
   - title: "Business"
-    content: "Core platform +</br>x + 30  UI elements</br>10 back end API connection</br>10 development license</br>Custom Branding</br>Email support</br>... and much more!"
+    content: "Core platform +</br>x + 30  UI elements</br>10 back end API connections</br>10 development licenses</br>Custom Branding</br>Email support</br>... and much more!"
     price: "£500/month"
 
   title: "Dedicated solutions"
