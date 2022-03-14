@@ -17,8 +17,8 @@ what_we_do:
   block:
   - title: "Logistics Sector"
     subtitle: "Waste, Recycling Management Solutions"
-    image1: "images/logistics/01.jpg"
-    image2: "images/logistics/02.jpg"
+    image1: "images/logistics/01.png"
+    image2: "images/logistics/02.png"
 
   - title: "Design and iterate the UX"
     subtitle: "Storyboard your mobile app"
