@@ -376,7 +376,13 @@
     }
   }
 }
+.img-left {
+  border-radius: 18px 0px 0px 18px; 
+}
 
+.img-right {
+   border-radius: 0px 18px 18px 0px; 
+}
 
 // office-loc
 .office-loc-item {
