@@ -13,18 +13,23 @@ weight = 3
 
 [[main]]
 name = "Showcase"
-url = "contact/"
-weight = 5
+url = "showcase/"
+weight = 4
 
 [[main]]
 name = "Marketplace"
-url = "contact/"
+url = "marketplace/"
 weight = 5
 
 [[main]]
-name = "Academy"
-url = "contact/"
-weight = 5
+name = "Tutorial"
+url = "tutorial/"
+weight = 6
+
+[[main]]
+name = "Sign in"
+url = "signin/"
+weight = 7
 
 
 # footer menu
