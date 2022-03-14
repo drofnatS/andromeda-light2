@@ -13,18 +13,24 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "Rapid Agile Development"
-  title: "Build any mobile app with no code. "
-  description: "FloPro lets you create native iOS and Android apps and includes a rich library of artefacts and user interface features for building simple to complex enterprise grade apps."
+
   block:
   - title: "Design and iterate the UX"
-    content: "Storyboard your mobile app scene by scene, build out logic using conditional operators determine what happens as users navigate your app through clicks and swipes. Use the FloPro library of comprehensive visual elements. "
+    subtitle: "Storyboard your mobile app"
+    image1: "images/about/02.jpg"
+    image2: "images/about/02.jpg"
 
-  - title: "Manage authorisation, security and data"
-    content: "Use a plurality of back end systems including and not limited to Firebase, Airtable, Backendless, Oracle Microsoft, Software AG, IBM, SAP, Salesforce using standard authentication mechanisms such as OAuth 2.0."
+  - title: "Design and iterate the UX"
+    subtitle: "Storyboard your mobile app"
+    image1: "images/about/02.jpg"
+    image2: "images/about/02.jpg"
     
-  - title: "Integrate with multiple back end systems"
-    content: "Using the FloPro Intelligent Connection Engine connect to multiple cloud and back end systems using REST/Open API and GraphQL."
+  - title: "Design and iterate the UX"
+    subtitle: "Storyboard your mobile app"
+    image1: "images/about/02.jpg"
+    image2: "images/about/02.jpg"
+
+
 
 
 # our_mission
