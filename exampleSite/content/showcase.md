@@ -15,16 +15,16 @@ what_we_do:
   enable: true
 
   block:
-  - title: "Design and iterate the UX"
-    subtitle: "Storyboard your mobile app"
-    image1: "images/about/02.jpg"
-    image2: "images/about/02.jpg"
+  - title: "Logistics Sector"
+    subtitle: "Waste, Recycling Management Solutions"
+    image1: "images/logistics/01.jpg"
+    image2: "images/logistics/02.jpg"
 
   - title: "Design and iterate the UX"
     subtitle: "Storyboard your mobile app"
     image1: "images/about/02.jpg"
     image2: "images/about/02.jpg"
-    
+
   - title: "Design and iterate the UX"
     subtitle: "Storyboard your mobile app"
     image1: "images/about/02.jpg"
