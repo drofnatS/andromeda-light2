@@ -28,20 +28,20 @@
         {{range .block}}
         <div class="col-xl-4 col-lg-4">
           <div class="text-center px-0 px-md-5 mt-4">
-            <h3 class="text-capitalize">{{.title | markdownify}}</h3>
+            <h2 class="title">{{.title | markdownify}}</h2>
             <p>{{.subtitle | markdownify}}</p>
           </div>
         </div>
         <div class="col-xl-6 col-lg-6">
             {{ if fileExists (add `assets/` .image1) }}
             {{$img:= resources.Get .image1 }}
-            {{$img:= $img.Resize "232x"}}
+            {{$img:= $img.Resize "300x"}}
             <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{end}}
 
             {{ if fileExists (add `assets/` .image2) }}
             {{$img:= resources.Get .image2 }}
-            {{$img:= $img.Resize "232x"}}
+            {{$img:= $img.Resize "300x"}}
             <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{end}}
         </div>
