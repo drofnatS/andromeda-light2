@@ -20,12 +20,12 @@ what_we_do:
     image1: "images/logistics/01.png"
     image2: "images/logistics/02.png"
 
-    - subtitle: "Waste, Recycling Management Solutions"
+  - subtitle: "Waste, Recycling Management Solutions"
     title: "Logistics Sector"
     image1: "images/logistics/01.png"
     image2: "images/logistics/02.png"
-    
-    - subtitle: "Waste, Recycling Management Solutions"
+
+  - subtitle: "Waste, Recycling Management Solutions"
     title: "Logistics Sector"
     image1: "images/logistics/01.png"
     image2: "images/logistics/02.png"
