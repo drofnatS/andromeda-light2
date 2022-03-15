@@ -25,16 +25,6 @@
         <div class="footer-widget">
           <h3 class="mb-4 h4">Socials</h3>
 
-          {{with site.Params.contact_info.email}}
-          <ul class="footer-links list-unstyled mb-4">
-            {{range first 1 .}}
-            {{if .}}
-            <li><a href="mailto:{{.}}">{{.}}</a></li>
-            {{end}}
-            {{end}}
-          </ul>
-          {{end}}
-
           {{ with site.Params.social}}
           <ul class="social-links list-inline">
             {{ range .}}
