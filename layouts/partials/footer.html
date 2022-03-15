@@ -21,22 +21,6 @@
           <p class="mb-0">{{site.Params.footer_info | markdownify}}</p>
         </div>
       </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 mt-5 mt-sm-0" data-aos="fade-up" data-aos-delay="50">
-        <div class="footer-widget">
-          <h3 class="mb-4 h4">Socials</h3>
-
-          {{ with site.Params.social}}
-          <ul class="social-links list-inline">
-            {{ range .}}
-            <li class="list-inline-item"><a href="{{.link}}" title="{{.title}}">
-              <i class="{{.icon}}"></i>
-            </a></li>
-            {{end}}
-          </ul>
-          {{end}}
-
-        </div>
-      </div>
       <div class="col-lg-2 col-md-6 col-sm-6 mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
         <div class="footer-widget">
           <h3 class="mb-4 h4">Quick Links</h3>
@@ -50,12 +34,21 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
         <div class="footer-widget">
-          <h3 class="mb-4 h4">Contact</h3>
+          <h3 class="mb-4 h4">Get in touch</h3>
 
           {{with site.Params.contact_info}}
           <ul class="footer-links list-unstyled">
             <li>{{.phone | markdownify}}</li>
             <li>{{.email | markdownify}}</li>
+            <li>{{ with site.Params.social}}
+              <ul class="social-links list-inline">
+                {{ range .}}
+                <li class="list-inline-item"><a href="{{.link}}" title="{{.title}}">
+                  <i class="{{.icon}}"></i>
+                </a></li>
+                {{end}}
+              </ul>
+              {{end}}</li>
           </ul>
           {{end}}
         </div>

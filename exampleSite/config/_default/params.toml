@@ -13,7 +13,7 @@ author = "Themefisher"
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
 # footer information
-footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "Cotham Technologies is an innovative software company that reinvents app development through its patent-pending FloFrame technology, the only no-code platform that delivers native app solutions. FloPro, powered by FloFrame, is a breakthrough product that transforms the app build process, rapidly delivering high impact user-centric experiences, without compromising on performance and usability. FloPro creates a new frontier in mobile app development, empowering enterprises to accelerate digital transformations by integrating seamlessly with existing and future data sources, increasing app throughput, and shortening time to market."
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
