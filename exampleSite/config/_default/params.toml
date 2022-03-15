@@ -13,14 +13,13 @@ author = "Themefisher"
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
 # footer information
-footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "Cotham Technologies is an innovative software company that reinvents app development through its patent-pending FloFrame technology, the only no-code platform that delivers native app solutions. FloPro, powered by FloFrame, is a breakthrough product that transforms the app build process, rapidly delivering high impact user-centric experiences, without compromising on performance and usability. FloPro creates a new frontier in mobile app development, empowering enterprises to accelerate digital transformations by integrating seamlessly with existing and future data sources, increasing app throughput, and shortening time to market."
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
 
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-
+copyright = "© Copyright 2012 - 2022 | Cotham Technologies Ltd | All Rights Reserved"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script = ""
 
@@ -36,8 +35,8 @@ reading_time = true
 # contact information
 [contact_info]
 address = "2118 Thornridge Cir. Syracuse, Connecticut 35624"
-phone = ["+704-555-0127", "+205-857-2321", "+002-569-6969"]
-email = ["info@andromeda.io", "smith@anderson.io", "john@anderson.io"]
+phone = "+44 117 405 7336"
+email = "info@cothamtechnologies.com""
 
 # imaging processing
 [imaging]
@@ -74,17 +73,17 @@ button_link = "https://gethugothemes.com/products/andromeda/"
 [[social]]
 title = "Andromeda"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://en-gb.facebook.com/cothamtechnologies/"
 
 [[social]]
 title = "AndromedaTweet"
 icon = "lab la-twitter"  # https://icons8.com/line-awesome
-link = "#!"
+link = "https://twitter.com/CothamTech"
 
 [[social]]
 title = "AndromedaIn"
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://www.linkedin.com/company/11183689/"
 
 [[social]]
 title = "AndromedaPin"

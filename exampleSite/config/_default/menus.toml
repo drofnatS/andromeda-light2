@@ -34,21 +34,16 @@ weight = 7
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
-weight = 1
-
-[[footer]]
-name = "Blog"
-url = "blog/"
+name = "Features"
+url = "features/"
 weight = 2
 
 [[footer]]
-name = "Blog Details"
-url = "blog/post-1/"
+name = "Pricing"
+url = "pricing/"
 weight = 3
 
 [[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
+name = "Showcase"
+url = "showcase/"
 weight = 4
