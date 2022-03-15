@@ -64,12 +64,8 @@
 
           {{with site.Params.contact_info}}
           <ul class="footer-links list-unstyled">
-            <li>{{.address | markdownify}}</li>
-            {{range first 1 .phone}}
-            {{if .}}
-            <li><a href="tel:{{.}}">{{.}}</a></li>
-            {{end}}
-            {{end}}
+            <li>{{.phone | markdownify}}</li>
+            <li>{{.email | markdownify}}</li>
           </ul>
           {{end}}
         </div>
